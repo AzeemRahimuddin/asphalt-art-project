@@ -18,7 +18,7 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-
+Note: Screenshots located in repositories for both final output/rough draft
 
 ## Reflection
 
