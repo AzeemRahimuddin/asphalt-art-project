@@ -29,7 +29,7 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   - My project is about a yellow school bus in the neighborhood. The project also includes a blue sky and a dirt road.
+   - My project is about a yellow school bus in the neighborhood. The project also includes a blue sky and a dirt road. 
 
 2. What are two things about your project that you are proud of?
 
